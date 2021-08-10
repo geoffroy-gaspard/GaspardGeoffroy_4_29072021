@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: rgba(255, 255, 255);
 }
 
 .d-bloc button:hover {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255);
 }
 
 .d-bloc .a-btn:hover,
@@ -285,6 +285,8 @@ a:hover {
 
 #bloc-1-hero h1 {
     font-size: 32px;
+    background-color: #F3976C;
+    border-radius: 1rem/1rem;
 }
 
 .navbar {
@@ -526,7 +528,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 14px;
+    font-size: 15px;
     opacity: 1;
 }
 
@@ -677,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -775,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #000!important;
+    color: #fcf8e3!important;
 }
 
 .btn-atomic-tangerine {
@@ -789,7 +791,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000!important;
 }
 
 .ltc-white:hover {
