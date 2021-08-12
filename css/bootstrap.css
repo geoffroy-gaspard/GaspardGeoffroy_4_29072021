@@ -3690,7 +3690,7 @@ textarea.input-lg {
 .btn:focus,
 .btn:hover {
     color: #333;
-    text-decoration: none
+    text-decoration: underline
 }
 
 .btn.active,
